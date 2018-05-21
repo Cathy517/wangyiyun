@@ -46,6 +46,16 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 * Webpack：自动化构建工具，主要配置vue-cli脚手架提供
 * ES6：采用ES6语法
 
+## 效果图
+![img](./screenshots/recommend.PNG)
+![img](./screenshots/leaderboards.PNG)
+![img](./screenshots/songlist.PNG)
+![img](./screenshots/songdetail.PNG)
+![img](./screenshots/radio.PNG)
+![img](./screenshots/singer.PNG)
+![img](./screenshots/album.PNG)
+
+
 ## 功能特性
 
 * 热门推荐（歌单、mv、新碟）
